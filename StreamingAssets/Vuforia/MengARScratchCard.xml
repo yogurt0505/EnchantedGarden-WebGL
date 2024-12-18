@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="afusionoffortunes" size="3.000000 2.000706" />
+    <ImageTarget name="HiddenGems" size="3.000000 2.000941" />
+    <ImageTarget name="loveandhappiness" size="5.000000 3.302498" />
+    <ImageTarget name="thedragongate" size="5.000000 6.250000" />
+    <ImageTarget name="theguardiansofpeace" size="5.000000 6.250000" />
+    <ImageTarget name="thetaleofsouth" size="5.000000 3.335098" />
+    <ImageTarget name="enchantedgarden" size="5.000000 3.350476" />
+    <ImageTarget name="goldflower" size="5.000000 5.319261" />
+    <ImageTarget name="lovesong" size="5.000000 3.350476" />
+    <ImageTarget name="penetrationculture" size="5.000000 3.332043" />
+    <ImageTarget name="togethertowardsgrowth" size="5.000000 3.350476" />
+    <ImageTarget name="harvestofprosperity" size="5.000000 3.335098" />
+    <ImageTarget name="We" size="5.000000 3.335098" />
+    <ImageTarget name="truelove" size="3.000000 2.001059" />
+  </Tracking>
+</QCARConfig>
